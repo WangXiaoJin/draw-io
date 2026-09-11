@@ -283,7 +283,7 @@
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="编辑&amp;nbsp; 删除" vertex="1">
           <mxGeometry height="25" width="173" x="551.86" y="2026" as="geometry" />
         </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="张三" vertex="1">
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="-" vertex="1">
           <mxGeometry height="25" width="131" x="181.44" y="2054" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="数字交易员" vertex="1">
@@ -295,7 +295,7 @@
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="编辑&amp;nbsp; 删除" vertex="1">
           <mxGeometry height="25" width="173" x="552" y="2052" as="geometry" />
         </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="张三" vertex="1">
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="-" vertex="1">
           <mxGeometry height="25" width="131" x="181.44" y="2077" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="数字交易员" vertex="1">
