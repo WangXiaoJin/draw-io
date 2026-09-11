@@ -272,7 +272,7 @@
           <mxGeometry height="15" width="14" x="261" y="1254" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="数字员工名 - 默认值：角色名+管理员名" vertex="1">
-          <mxGeometry height="30" width="288" x="126" y="1777" as="geometry" />
+          <mxGeometry height="30" width="288" x="83" y="1774" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
