@@ -85,9 +85,6 @@
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-34" parent="1" style="shape=ellipse;fillColor=#060606;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=11;fontColor=#666666;labelPosition=right;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="普通员工" vertex="1">
           <mxGeometry height="15" width="14" x="178" y="955.5" as="geometry" />
         </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-165" edge="1" parent="1" source="dY0Q8LQ5abgqrvrBQ5H5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="dY0Q8LQ5abgqrvrBQ5H5-43" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-37" parent="1" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=11;fontColor=#666666;labelPosition=right;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="数字员工" vertex="1">
           <mxGeometry height="15" width="14" x="261" y="955.5" as="geometry" />
         </mxCell>
@@ -141,12 +138,6 @@
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="角色类型：" vertex="1">
           <mxGeometry height="30" width="68" x="108" y="1243" as="geometry" />
-        </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-59" parent="1" style="shape=ellipse;fillColor=#C1C1C1;strokeColor=#999999;gradientColor=light-dark(#e3e3e3, #3e3e3e);html=1;align=left;spacingLeft=4;fontSize=11;fontColor=#666666;labelPosition=right;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="标准型" vertex="1">
-          <mxGeometry height="15" width="14" x="178" y="1250.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-60" parent="1" style="shape=ellipse;fillColor=#0A0A0A;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=11;fontColor=#666666;labelPosition=right;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="AI增强型" vertex="1">
-          <mxGeometry height="15" width="14" x="244" y="1250.5" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="角色名称：" vertex="1">
           <mxGeometry height="30" width="64" x="108" y="1278" as="geometry" />
@@ -282,6 +273,12 @@
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="角色" vertex="1">
           <mxGeometry height="25" width="131" x="376.64" y="1789" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-167" parent="1" style="shape=ellipse;fillColor=#060606;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=11;fontColor=#666666;labelPosition=right;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="普通员工" vertex="1">
+          <mxGeometry height="15" width="14" x="178" y="1254" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-168" parent="1" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=11;fontColor=#666666;labelPosition=right;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="数字员工" vertex="1">
+          <mxGeometry height="15" width="14" x="261" y="1254" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
