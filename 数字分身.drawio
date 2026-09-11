@@ -134,7 +134,7 @@
           <mxGeometry height="30" width="78.5" x="189" y="1331.5" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="" vertex="1">
-          <mxGeometry height="559" width="489" x="85" y="1397" as="geometry" />
+          <mxGeometry height="346" width="489" x="85" y="1397" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="新增角色" vertex="1">
           <mxGeometry height="30" width="60" x="108" y="1404" as="geometry" />
