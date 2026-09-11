@@ -59,7 +59,7 @@
           <mxGeometry height="300" width="404.29" x="120" y="563" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="" vertex="1">
-          <mxGeometry height="302" width="489" x="85" y="908" as="geometry" />
+          <mxGeometry height="162" width="489" x="85" y="908" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="数字分身" vertex="1">
           <mxGeometry height="30" width="60" x="108" y="915" as="geometry" />
@@ -72,15 +72,6 @@
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="" vertex="1">
           <mxGeometry height="52.5" width="212" x="169" y="993.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="提示词：" vertex="1">
-          <mxGeometry height="30" width="64" x="101" y="1068" as="geometry" />
-        </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;align=left;" value="" vertex="1">
-          <mxGeometry height="120.5" width="224" x="165" y="1058.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;## 任务目标&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;作为专业{{角色名}}，你需要根据用户要求完成什么任务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;## 任务流程&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;{{岗位职责}}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;## 输出要求&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;## 领域知识&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;{{领域知识}}&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="54" width="132" x="176" y="1089" as="geometry" />
         </mxCell>
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-20" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=10;spacingLeft=3;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="选择数字分身" vertex="1">
           <mxGeometry height="22" width="145" x="168" y="954" as="geometry" />
