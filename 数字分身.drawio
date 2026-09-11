@@ -76,6 +76,42 @@
         <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-20" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=10;spacingLeft=3;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="选择数字分身" vertex="1">
           <mxGeometry height="22" width="145" x="168" y="954" as="geometry" />
         </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="" vertex="1">
+          <mxGeometry height="162" width="489" x="85" y="1102" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="新增角色" vertex="1">
+          <mxGeometry height="30" width="60" x="108" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="数字分身：" vertex="1">
+          <mxGeometry height="30" width="68" x="104" y="1144" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="岗位职责：" vertex="1">
+          <mxGeometry height="30" width="64" x="105" y="1182" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="" vertex="1">
+          <mxGeometry height="52.5" width="212" x="169" y="1187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-26" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=10;spacingLeft=3;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="选择数字分身" vertex="1">
+          <mxGeometry height="22" width="145" x="168" y="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="102" y="1139" as="sourcePoint" />
+            <mxPoint x="554" y="1135.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="96.13999999999999" y="945.0000000000001" as="sourcePoint" />
+            <mxPoint x="548.14" y="941.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dY0Q8LQ5abgqrvrBQ5H5-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="96.14999999999998" y="125.38000000000011" as="sourcePoint" />
+            <mxPoint x="548.15" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
